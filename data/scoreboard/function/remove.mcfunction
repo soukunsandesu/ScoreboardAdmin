@@ -1,4 +1,4 @@
-#> scoreboard:create
+#> scoreboard:remove
 ### Copyright © 2024 SoukunsanDeath
 ### This software is released under the MIT License, see LICENSE.
 
